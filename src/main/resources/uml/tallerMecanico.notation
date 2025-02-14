@@ -378,13 +378,13 @@
               <element xmi:type="uml:Comment" href="tallerMecanico.uml#_4v1gkMWREe6GV74yg1DxAg"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4w7FscWREe6GV74yg1DxAg" x="354" y="202"/>
             </children>
-            <children xmi:type="notation:Shape" xmi:id="_bLAVsOeUEe-6Wf3-7iKHsw" type="StereotypeComment">
-              <styles xmi:type="notation:TitleStyle" xmi:id="_bLAVseeUEe-6Wf3-7iKHsw"/>
-              <styles xmi:type="notation:EObjectValueStyle" xmi:id="_bLAVs-eUEe-6Wf3-7iKHsw" name="BASE_ELEMENT">
+            <children xmi:type="notation:Shape" xmi:id="_dNhk0Oq6Ee-qkKn9leKjbw" type="StereotypeComment">
+              <styles xmi:type="notation:TitleStyle" xmi:id="_dNhk0eq6Ee-qkKn9leKjbw"/>
+              <styles xmi:type="notation:EObjectValueStyle" xmi:id="_dNiL4Oq6Ee-qkKn9leKjbw" name="BASE_ELEMENT">
                 <eObjectValue xmi:type="uml:Enumeration" href="tallerMecanico.uml#_L0AKgMWREe6GV74yg1DxAg"/>
               </styles>
               <element xsi:nil="true"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bLAVsueUEe-6Wf3-7iKHsw" x="274" y="91"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dNhk0uq6Ee-qkKn9leKjbw" x="274" y="91"/>
             </children>
             <styles xmi:type="notation:TitleStyle" xmi:id="_EVl4NMWREe6GV74yg1DxAg"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EVl4NcWREe6GV74yg1DxAg"/>
@@ -742,7 +742,7 @@
                     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ITL2jsWOEe6GV74yg1DxAg"/>
                   </children>
                   <element xmi:type="uml:Class" href="tallerMecanico.uml#_IS2fUMWOEe6GV74yg1DxAg"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ITLPccWOEe6GV74yg1DxAg" x="28" y="82"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ITLPccWOEe6GV74yg1DxAg" x="34" y="82"/>
                 </children>
                 <children xmi:type="notation:Shape" xmi:id="_JaOXEMWOEe6GV74yg1DxAg" type="Class_Shape_CN">
                   <children xmi:type="notation:DecorationNode" xmi:id="_JaO-IMWOEe6GV74yg1DxAg" type="Class_NameLabel_CN"/>
@@ -983,29 +983,29 @@
                   <element xmi:type="uml:Class" href="tallerMecanico.uml#_KW5asMWOEe6GV74yg1DxAg"/>
                   <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KXLHgcWOEe6GV74yg1DxAg" x="1198" y="90"/>
                 </children>
-                <children xmi:type="notation:Shape" xmi:id="_bLwjo-eUEe-6Wf3-7iKHsw" type="StereotypeComment">
-                  <styles xmi:type="notation:TitleStyle" xmi:id="_bLwjpOeUEe-6Wf3-7iKHsw"/>
-                  <styles xmi:type="notation:EObjectValueStyle" xmi:id="_bLwjpueUEe-6Wf3-7iKHsw" name="BASE_ELEMENT">
+                <children xmi:type="notation:Shape" xmi:id="_dPUUkOq6Ee-qkKn9leKjbw" type="StereotypeComment">
+                  <styles xmi:type="notation:TitleStyle" xmi:id="_dPUUkeq6Ee-qkKn9leKjbw"/>
+                  <styles xmi:type="notation:EObjectValueStyle" xmi:id="_dPUUk-q6Ee-qkKn9leKjbw" name="BASE_ELEMENT">
                     <eObjectValue xmi:type="uml:Class" href="tallerMecanico.uml#_IS2fUMWOEe6GV74yg1DxAg"/>
                   </styles>
                   <element xsi:nil="true"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bLwjpeeUEe-6Wf3-7iKHsw" x="228" y="82"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dPUUkuq6Ee-qkKn9leKjbw" x="234" y="82"/>
                 </children>
-                <children xmi:type="notation:Shape" xmi:id="_bL-mEOeUEe-6Wf3-7iKHsw" type="StereotypeComment">
-                  <styles xmi:type="notation:TitleStyle" xmi:id="_bL-mEeeUEe-6Wf3-7iKHsw"/>
-                  <styles xmi:type="notation:EObjectValueStyle" xmi:id="_bL-mE-eUEe-6Wf3-7iKHsw" name="BASE_ELEMENT">
+                <children xmi:type="notation:Shape" xmi:id="_dP3HIOq6Ee-qkKn9leKjbw" type="StereotypeComment">
+                  <styles xmi:type="notation:TitleStyle" xmi:id="_dP3HIeq6Ee-qkKn9leKjbw"/>
+                  <styles xmi:type="notation:EObjectValueStyle" xmi:id="_dP3HI-q6Ee-qkKn9leKjbw" name="BASE_ELEMENT">
                     <eObjectValue xmi:type="uml:Class" href="tallerMecanico.uml#_JZjosMWOEe6GV74yg1DxAg"/>
                   </styles>
                   <element xsi:nil="true"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bL-mEueUEe-6Wf3-7iKHsw" x="731" y="31"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dP3HIuq6Ee-qkKn9leKjbw" x="731" y="31"/>
                 </children>
-                <children xmi:type="notation:Shape" xmi:id="_bMN2oOeUEe-6Wf3-7iKHsw" type="StereotypeComment">
-                  <styles xmi:type="notation:TitleStyle" xmi:id="_bMN2oeeUEe-6Wf3-7iKHsw"/>
-                  <styles xmi:type="notation:EObjectValueStyle" xmi:id="_bMN2o-eUEe-6Wf3-7iKHsw" name="BASE_ELEMENT">
+                <children xmi:type="notation:Shape" xmi:id="_dQc9AOq6Ee-qkKn9leKjbw" type="StereotypeComment">
+                  <styles xmi:type="notation:TitleStyle" xmi:id="_dQc9Aeq6Ee-qkKn9leKjbw"/>
+                  <styles xmi:type="notation:EObjectValueStyle" xmi:id="_dQc9A-q6Ee-qkKn9leKjbw" name="BASE_ELEMENT">
                     <eObjectValue xmi:type="uml:Class" href="tallerMecanico.uml#_KW5asMWOEe6GV74yg1DxAg"/>
                   </styles>
                   <element xsi:nil="true"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bMN2oueUEe-6Wf3-7iKHsw" x="1398" y="90"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dQc9Auq6Ee-qkKn9leKjbw" x="1398" y="90"/>
                 </children>
                 <styles xmi:type="notation:TitleStyle" xmi:id="_-UBessWNEe6GV74yg1DxAg"/>
                 <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-UBes8WNEe6GV74yg1DxAg"/>
@@ -1546,29 +1546,29 @@
                   <element xmi:type="uml:Class" href="tallerMecanico.uml#_rnFwYMWLEe6GV74yg1DxAg"/>
                   <layoutConstraint xmi:type="notation:Bounds" xmi:id="__Vhp4cWLEe6GV74yg1DxAg" x="1134" y="172"/>
                 </children>
-                <children xmi:type="notation:Shape" xmi:id="_bMdHMOeUEe-6Wf3-7iKHsw" type="StereotypeComment">
-                  <styles xmi:type="notation:TitleStyle" xmi:id="_bMdHMeeUEe-6Wf3-7iKHsw"/>
-                  <styles xmi:type="notation:EObjectValueStyle" xmi:id="_bMdHM-eUEe-6Wf3-7iKHsw" name="BASE_ELEMENT">
+                <children xmi:type="notation:Shape" xmi:id="_dQ8sQOq6Ee-qkKn9leKjbw" type="StereotypeComment">
+                  <styles xmi:type="notation:TitleStyle" xmi:id="_dQ8sQeq6Ee-qkKn9leKjbw"/>
+                  <styles xmi:type="notation:EObjectValueStyle" xmi:id="_dQ8sQ-q6Ee-qkKn9leKjbw" name="BASE_ELEMENT">
                     <eObjectValue xmi:type="uml:Class" href="tallerMecanico.uml#_jXDz4MWLEe6GV74yg1DxAg"/>
                   </styles>
                   <element xsi:nil="true"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bMdHMueUEe-6Wf3-7iKHsw" x="274" y="130"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dQ8sQuq6Ee-qkKn9leKjbw" x="274" y="130"/>
                 </children>
-                <children xmi:type="notation:Shape" xmi:id="_bMqikOeUEe-6Wf3-7iKHsw" type="StereotypeComment">
-                  <styles xmi:type="notation:TitleStyle" xmi:id="_bMqikeeUEe-6Wf3-7iKHsw"/>
-                  <styles xmi:type="notation:EObjectValueStyle" xmi:id="_bMqik-eUEe-6Wf3-7iKHsw" name="BASE_ELEMENT">
+                <children xmi:type="notation:Shape" xmi:id="_dRb0cOq6Ee-qkKn9leKjbw" type="StereotypeComment">
+                  <styles xmi:type="notation:TitleStyle" xmi:id="_dRb0ceq6Ee-qkKn9leKjbw"/>
+                  <styles xmi:type="notation:EObjectValueStyle" xmi:id="_dRb0c-q6Ee-qkKn9leKjbw" name="BASE_ELEMENT">
                     <eObjectValue xmi:type="uml:Class" href="tallerMecanico.uml#_rmvyIMWLEe6GV74yg1DxAg"/>
                   </styles>
                   <element xsi:nil="true"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bMqikueUEe-6Wf3-7iKHsw" x="769" y="45"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dRb0cuq6Ee-qkKn9leKjbw" x="769" y="45"/>
                 </children>
-                <children xmi:type="notation:Shape" xmi:id="_bNBH4-eUEe-6Wf3-7iKHsw" type="StereotypeComment">
-                  <styles xmi:type="notation:TitleStyle" xmi:id="_bNBH5OeUEe-6Wf3-7iKHsw"/>
-                  <styles xmi:type="notation:EObjectValueStyle" xmi:id="_bNBu8OeUEe-6Wf3-7iKHsw" name="BASE_ELEMENT">
+                <children xmi:type="notation:Shape" xmi:id="_dSZdwOq6Ee-qkKn9leKjbw" type="StereotypeComment">
+                  <styles xmi:type="notation:TitleStyle" xmi:id="_dSZdweq6Ee-qkKn9leKjbw"/>
+                  <styles xmi:type="notation:EObjectValueStyle" xmi:id="_dSZdw-q6Ee-qkKn9leKjbw" name="BASE_ELEMENT">
                     <eObjectValue xmi:type="uml:Class" href="tallerMecanico.uml#_rnFwYMWLEe6GV74yg1DxAg"/>
                   </styles>
                   <element xsi:nil="true"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bNBH5eeUEe-6Wf3-7iKHsw" x="1334" y="172"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dSZdwuq6Ee-qkKn9leKjbw" x="1334" y="172"/>
                 </children>
                 <styles xmi:type="notation:TitleStyle" xmi:id="_Dx15ocWLEe65drXdt8xEJQ"/>
                 <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Dx15osWLEe65drXdt8xEJQ"/>
@@ -1832,14 +1832,6 @@
               <element xmi:type="uml:Class" href="tallerMecanico.uml#_qPSTIMWPEe6GV74yg1DxAg"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qQM5IcWPEe6GV74yg1DxAg" x="607" y="51"/>
             </children>
-            <children xmi:type="notation:Shape" xmi:id="_bNN8M-eUEe-6Wf3-7iKHsw" type="StereotypeComment">
-              <styles xmi:type="notation:TitleStyle" xmi:id="_bNN8NOeUEe-6Wf3-7iKHsw"/>
-              <styles xmi:type="notation:EObjectValueStyle" xmi:id="_bNN8NueUEe-6Wf3-7iKHsw" name="BASE_ELEMENT">
-                <eObjectValue xmi:type="uml:Class" href="tallerMecanico.uml#_qPSTIMWPEe6GV74yg1DxAg"/>
-              </styles>
-              <element xsi:nil="true"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bNN8NeeUEe-6Wf3-7iKHsw" x="807" y="51"/>
-            </children>
             <children xmi:type="notation:Shape" xmi:id="_fCtAAOeUEe-6Wf3-7iKHsw" type="Class_Shape_CN">
               <children xmi:type="notation:DecorationNode" xmi:id="_fCuOIOeUEe-6Wf3-7iKHsw" type="Class_NameLabel_CN"/>
               <children xmi:type="notation:DecorationNode" xmi:id="_fCuOIeeUEe-6Wf3-7iKHsw" type="Class_FloatingNameLabel_CN">
@@ -1876,6 +1868,14 @@
               </children>
               <element xmi:type="uml:Class" href="tallerMecanico.uml#_fCTXYOeUEe-6Wf3-7iKHsw"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fCtAAeeUEe-6Wf3-7iKHsw" x="1219" y="51"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_dS3X0Oq6Ee-qkKn9leKjbw" type="StereotypeComment">
+              <styles xmi:type="notation:TitleStyle" xmi:id="_dS3X0eq6Ee-qkKn9leKjbw"/>
+              <styles xmi:type="notation:EObjectValueStyle" xmi:id="_dS3-4Oq6Ee-qkKn9leKjbw" name="BASE_ELEMENT">
+                <eObjectValue xmi:type="uml:Class" href="tallerMecanico.uml#_qPSTIMWPEe6GV74yg1DxAg"/>
+              </styles>
+              <element xsi:nil="true"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dS3X0uq6Ee-qkKn9leKjbw" x="807" y="51"/>
             </children>
             <styles xmi:type="notation:TitleStyle" xmi:id="_TzuFAsWPEe6GV74yg1DxAg"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TzuFA8WPEe6GV74yg1DxAg"/>
@@ -2308,85 +2308,85 @@
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_qTG0cMWVEe6PL5kubjCEzQ" id="(0.43548387096774194,1.0)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_qTG0ccWVEe6PL5kubjCEzQ" id="(0.4308755760368664,0.0)"/>
     </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_bLAVtOeUEe-6Wf3-7iKHsw" type="StereotypeCommentLink" source="_L0eEkMWREe6GV74yg1DxAg" target="_bLAVsOeUEe-6Wf3-7iKHsw">
-      <styles xmi:type="notation:FontStyle" xmi:id="_bLAVteeUEe-6Wf3-7iKHsw"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_bLAVueeUEe-6Wf3-7iKHsw" name="BASE_ELEMENT">
+    <edges xmi:type="notation:Connector" xmi:id="_dNiy8Oq6Ee-qkKn9leKjbw" type="StereotypeCommentLink" source="_L0eEkMWREe6GV74yg1DxAg" target="_dNhk0Oq6Ee-qkKn9leKjbw">
+      <styles xmi:type="notation:FontStyle" xmi:id="_dNiy8eq6Ee-qkKn9leKjbw"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_dNjaAeq6Ee-qkKn9leKjbw" name="BASE_ELEMENT">
         <eObjectValue xmi:type="uml:Enumeration" href="tallerMecanico.uml#_L0AKgMWREe6GV74yg1DxAg"/>
       </styles>
       <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bLAVtueUEe-6Wf3-7iKHsw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bLAVt-eUEe-6Wf3-7iKHsw"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bLAVuOeUEe-6Wf3-7iKHsw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_dNiy8uq6Ee-qkKn9leKjbw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_dNiy8-q6Ee-qkKn9leKjbw"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_dNjaAOq6Ee-qkKn9leKjbw"/>
     </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_bLwjp-eUEe-6Wf3-7iKHsw" type="StereotypeCommentLink" source="_ITLPcMWOEe6GV74yg1DxAg" target="_bLwjo-eUEe-6Wf3-7iKHsw">
-      <styles xmi:type="notation:FontStyle" xmi:id="_bLwjqOeUEe-6Wf3-7iKHsw"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_bLxKsueUEe-6Wf3-7iKHsw" name="BASE_ELEMENT">
+    <edges xmi:type="notation:Connector" xmi:id="_dPUUlOq6Ee-qkKn9leKjbw" type="StereotypeCommentLink" source="_ITLPcMWOEe6GV74yg1DxAg" target="_dPUUkOq6Ee-qkKn9leKjbw">
+      <styles xmi:type="notation:FontStyle" xmi:id="_dPUUleq6Ee-qkKn9leKjbw"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_dPU7oeq6Ee-qkKn9leKjbw" name="BASE_ELEMENT">
         <eObjectValue xmi:type="uml:Class" href="tallerMecanico.uml#_IS2fUMWOEe6GV74yg1DxAg"/>
       </styles>
       <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bLwjqeeUEe-6Wf3-7iKHsw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bLxKsOeUEe-6Wf3-7iKHsw"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bLxKseeUEe-6Wf3-7iKHsw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_dPUUluq6Ee-qkKn9leKjbw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_dPUUl-q6Ee-qkKn9leKjbw"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_dPU7oOq6Ee-qkKn9leKjbw"/>
     </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_bL-mFOeUEe-6Wf3-7iKHsw" type="StereotypeCommentLink" source="_JaOXEMWOEe6GV74yg1DxAg" target="_bL-mEOeUEe-6Wf3-7iKHsw">
-      <styles xmi:type="notation:FontStyle" xmi:id="_bL-mFeeUEe-6Wf3-7iKHsw"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_bL-mGeeUEe-6Wf3-7iKHsw" name="BASE_ELEMENT">
+    <edges xmi:type="notation:Connector" xmi:id="_dP3HJOq6Ee-qkKn9leKjbw" type="StereotypeCommentLink" source="_JaOXEMWOEe6GV74yg1DxAg" target="_dP3HIOq6Ee-qkKn9leKjbw">
+      <styles xmi:type="notation:FontStyle" xmi:id="_dP3HJeq6Ee-qkKn9leKjbw"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_dP3uMOq6Ee-qkKn9leKjbw" name="BASE_ELEMENT">
         <eObjectValue xmi:type="uml:Class" href="tallerMecanico.uml#_JZjosMWOEe6GV74yg1DxAg"/>
       </styles>
       <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bL-mFueUEe-6Wf3-7iKHsw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bL-mF-eUEe-6Wf3-7iKHsw"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bL-mGOeUEe-6Wf3-7iKHsw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_dP3HJuq6Ee-qkKn9leKjbw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_dP3HJ-q6Ee-qkKn9leKjbw"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_dP3HKOq6Ee-qkKn9leKjbw"/>
     </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_bMN2pOeUEe-6Wf3-7iKHsw" type="StereotypeCommentLink" source="_KXLHgMWOEe6GV74yg1DxAg" target="_bMN2oOeUEe-6Wf3-7iKHsw">
-      <styles xmi:type="notation:FontStyle" xmi:id="_bMN2peeUEe-6Wf3-7iKHsw"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_bMN2qeeUEe-6Wf3-7iKHsw" name="BASE_ELEMENT">
+    <edges xmi:type="notation:Connector" xmi:id="_dQdkEOq6Ee-qkKn9leKjbw" type="StereotypeCommentLink" source="_KXLHgMWOEe6GV74yg1DxAg" target="_dQc9AOq6Ee-qkKn9leKjbw">
+      <styles xmi:type="notation:FontStyle" xmi:id="_dQdkEeq6Ee-qkKn9leKjbw"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_dQdkFeq6Ee-qkKn9leKjbw" name="BASE_ELEMENT">
         <eObjectValue xmi:type="uml:Class" href="tallerMecanico.uml#_KW5asMWOEe6GV74yg1DxAg"/>
       </styles>
       <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bMN2pueUEe-6Wf3-7iKHsw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bMN2p-eUEe-6Wf3-7iKHsw"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bMN2qOeUEe-6Wf3-7iKHsw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_dQdkEuq6Ee-qkKn9leKjbw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_dQdkE-q6Ee-qkKn9leKjbw"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_dQdkFOq6Ee-qkKn9leKjbw"/>
     </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_bMduQOeUEe-6Wf3-7iKHsw" type="StereotypeCommentLink" source="_jjAlMMWLEe6GV74yg1DxAg" target="_bMdHMOeUEe-6Wf3-7iKHsw">
-      <styles xmi:type="notation:FontStyle" xmi:id="_bMduQeeUEe-6Wf3-7iKHsw"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_bMduReeUEe-6Wf3-7iKHsw" name="BASE_ELEMENT">
+    <edges xmi:type="notation:Connector" xmi:id="_dQ8sROq6Ee-qkKn9leKjbw" type="StereotypeCommentLink" source="_jjAlMMWLEe6GV74yg1DxAg" target="_dQ8sQOq6Ee-qkKn9leKjbw">
+      <styles xmi:type="notation:FontStyle" xmi:id="_dQ8sReq6Ee-qkKn9leKjbw"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_dQ9TUOq6Ee-qkKn9leKjbw" name="BASE_ELEMENT">
         <eObjectValue xmi:type="uml:Class" href="tallerMecanico.uml#_jXDz4MWLEe6GV74yg1DxAg"/>
       </styles>
       <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bMduQueUEe-6Wf3-7iKHsw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bMduQ-eUEe-6Wf3-7iKHsw"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bMduROeUEe-6Wf3-7iKHsw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_dQ8sRuq6Ee-qkKn9leKjbw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_dQ8sR-q6Ee-qkKn9leKjbw"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_dQ8sSOq6Ee-qkKn9leKjbw"/>
     </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_bMqilOeUEe-6Wf3-7iKHsw" type="StereotypeCommentLink" source="_ro_04MWLEe6GV74yg1DxAg" target="_bMqikOeUEe-6Wf3-7iKHsw">
-      <styles xmi:type="notation:FontStyle" xmi:id="_bMqileeUEe-6Wf3-7iKHsw"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_bMqimeeUEe-6Wf3-7iKHsw" name="BASE_ELEMENT">
+    <edges xmi:type="notation:Connector" xmi:id="_dRb0dOq6Ee-qkKn9leKjbw" type="StereotypeCommentLink" source="_ro_04MWLEe6GV74yg1DxAg" target="_dRb0cOq6Ee-qkKn9leKjbw">
+      <styles xmi:type="notation:FontStyle" xmi:id="_dRb0deq6Ee-qkKn9leKjbw"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_dRcbguq6Ee-qkKn9leKjbw" name="BASE_ELEMENT">
         <eObjectValue xmi:type="uml:Class" href="tallerMecanico.uml#_rmvyIMWLEe6GV74yg1DxAg"/>
       </styles>
       <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bMqilueUEe-6Wf3-7iKHsw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bMqil-eUEe-6Wf3-7iKHsw"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bMqimOeUEe-6Wf3-7iKHsw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_dRb0duq6Ee-qkKn9leKjbw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_dRcbgOq6Ee-qkKn9leKjbw"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_dRcbgeq6Ee-qkKn9leKjbw"/>
     </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_bNBu8eeUEe-6Wf3-7iKHsw" type="StereotypeCommentLink" source="__Vhp4MWLEe6GV74yg1DxAg" target="_bNBH4-eUEe-6Wf3-7iKHsw">
-      <styles xmi:type="notation:FontStyle" xmi:id="_bNBu8ueUEe-6Wf3-7iKHsw"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_bNBu9ueUEe-6Wf3-7iKHsw" name="BASE_ELEMENT">
+    <edges xmi:type="notation:Connector" xmi:id="_dSZdxOq6Ee-qkKn9leKjbw" type="StereotypeCommentLink" source="__Vhp4MWLEe6GV74yg1DxAg" target="_dSZdwOq6Ee-qkKn9leKjbw">
+      <styles xmi:type="notation:FontStyle" xmi:id="_dSZdxeq6Ee-qkKn9leKjbw"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_dSaE0uq6Ee-qkKn9leKjbw" name="BASE_ELEMENT">
         <eObjectValue xmi:type="uml:Class" href="tallerMecanico.uml#_rnFwYMWLEe6GV74yg1DxAg"/>
       </styles>
       <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bNBu8-eUEe-6Wf3-7iKHsw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bNBu9OeUEe-6Wf3-7iKHsw"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bNBu9eeUEe-6Wf3-7iKHsw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_dSZdxuq6Ee-qkKn9leKjbw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_dSaE0Oq6Ee-qkKn9leKjbw"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_dSaE0eq6Ee-qkKn9leKjbw"/>
     </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_bNN8N-eUEe-6Wf3-7iKHsw" type="StereotypeCommentLink" source="_qQM5IMWPEe6GV74yg1DxAg" target="_bNN8M-eUEe-6Wf3-7iKHsw">
-      <styles xmi:type="notation:FontStyle" xmi:id="_bNN8OOeUEe-6Wf3-7iKHsw"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_bNOjQOeUEe-6Wf3-7iKHsw" name="BASE_ELEMENT">
+    <edges xmi:type="notation:Connector" xmi:id="_dS3-4eq6Ee-qkKn9leKjbw" type="StereotypeCommentLink" source="_qQM5IMWPEe6GV74yg1DxAg" target="_dS3X0Oq6Ee-qkKn9leKjbw">
+      <styles xmi:type="notation:FontStyle" xmi:id="_dS3-4uq6Ee-qkKn9leKjbw"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_dS3-5uq6Ee-qkKn9leKjbw" name="BASE_ELEMENT">
         <eObjectValue xmi:type="uml:Class" href="tallerMecanico.uml#_qPSTIMWPEe6GV74yg1DxAg"/>
       </styles>
       <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bNN8OeeUEe-6Wf3-7iKHsw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bNN8OueUEe-6Wf3-7iKHsw"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bNN8O-eUEe-6Wf3-7iKHsw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_dS3-4-q6Ee-qkKn9leKjbw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_dS3-5Oq6Ee-qkKn9leKjbw"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_dS3-5eq6Ee-qkKn9leKjbw"/>
     </edges>
   </notation:Diagram>
   <css:StyleSheetReference xmi:id="_8dosMMWKEe65drXdt8xEJQ" path="/TallerMecanico/src/main/resources/uml/MiEstilo.css"/>

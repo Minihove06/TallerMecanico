@@ -648,10 +648,10 @@
                       <ownedParameter xmi:type="uml:Parameter" xmi:id="_ITA3YMWOEe6GV74yg1DxAg" name="cliente" type="_jXDz4MWLEe6GV74yg1DxAg"/>
                     </ownedOperation>
                     <ownedOperation xmi:type="uml:Operation" xmi:id="_ITCskMWOEe6GV74yg1DxAg" name="modificar" visibility="public" method="_ITFv4MWOEe6GV74yg1DxAg" raisedException="_rn8E8MWLEe6GV74yg1DxAg">
-                      <ownedParameter xmi:type="uml:Parameter" xmi:id="_ITCskcWOEe6GV74yg1DxAg" type="_jhYNgMWLEe6GV74yg1DxAg" direction="return"/>
                       <ownedParameter xmi:type="uml:Parameter" xmi:id="_ITDToMWOEe6GV74yg1DxAg" name="cliente" type="_jXDz4MWLEe6GV74yg1DxAg"/>
                       <ownedParameter xmi:type="uml:Parameter" xmi:id="_ITD6sMWOEe6GV74yg1DxAg" name="nombre" type="_jXQBIMWLEe6GV74yg1DxAg"/>
                       <ownedParameter xmi:type="uml:Parameter" xmi:id="_ITEhwMWOEe6GV74yg1DxAg" name="telefono" type="_jXQBIMWLEe6GV74yg1DxAg"/>
+                      <ownedParameter xmi:type="uml:Parameter" xmi:id="_PdD7EOq5Ee-_-I_ycaTYqg" name="Cliente" type="_N-FboOq5Ee-_-I_ycaTYqg" direction="return"/>
                     </ownedOperation>
                     <ownedOperation xmi:type="uml:Operation" xmi:id="_ITGW8MWOEe6GV74yg1DxAg" name="buscar" visibility="public" method="_ITHlEcWOEe6GV74yg1DxAg">
                       <ownedParameter xmi:type="uml:Parameter" xmi:id="_ITG-AMWOEe6GV74yg1DxAg" type="_jXDz4MWLEe6GV74yg1DxAg" direction="return"/>
@@ -1101,10 +1101,10 @@
                     <ownedParameter xmi:type="uml:Parameter" xmi:id="_qPxbUMWPEe6GV74yg1DxAg" name="revision" type="_rmvyIMWLEe6GV74yg1DxAg"/>
                   </ownedOperation>
                   <ownedOperation xmi:type="uml:Operation" xmi:id="_qPypcMWPEe6GV74yg1DxAg" name="modificar" visibility="public" method="_qP1FsMWPEe6GV74yg1DxAg" raisedException="_rn8E8MWLEe6GV74yg1DxAg">
-                    <ownedParameter xmi:type="uml:Parameter" xmi:id="_qPypccWPEe6GV74yg1DxAg" type="_jhYNgMWLEe6GV74yg1DxAg" direction="return"/>
                     <ownedParameter xmi:type="uml:Parameter" xmi:id="_qPzQgMWPEe6GV74yg1DxAg" name="cliente" type="_jXDz4MWLEe6GV74yg1DxAg"/>
                     <ownedParameter xmi:type="uml:Parameter" xmi:id="_qPz3kMWPEe6GV74yg1DxAg" name="nombre" type="_jXQBIMWLEe6GV74yg1DxAg"/>
                     <ownedParameter xmi:type="uml:Parameter" xmi:id="_qP0eoMWPEe6GV74yg1DxAg" name="telefono" type="_jXQBIMWLEe6GV74yg1DxAg"/>
+                    <ownedParameter xmi:type="uml:Parameter" xmi:id="_zRnuIOq6Ee-qkKn9leKjbw" name="Cliente" type="_jXDz4MWLEe6GV74yg1DxAg" direction="return"/>
                   </ownedOperation>
                   <ownedOperation xmi:type="uml:Operation" xmi:id="_qP2T0MWPEe6GV74yg1DxAg" name="anadirHoras" visibility="public" method="_qP3h8MWPEe6GV74yg1DxAg" raisedException="_rn8E8MWLEe6GV74yg1DxAg">
                     <ownedParameter xmi:type="uml:Parameter" xmi:id="_qP2T0cWPEe6GV74yg1DxAg" name="revision" type="_rmvyIMWLEe6GV74yg1DxAg"/>
@@ -1580,7 +1580,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_jhVxQMWLEe6GV74yg1DxAg" name="importedTypes">
       <packagedElement xmi:type="uml:Package" xmi:id="_jhW_YMWLEe6GV74yg1DxAg" name="primitivetype">
-        <packagedElement xmi:type="uml:PrimitiveType" xmi:id="_jhYNgMWLEe6GV74yg1DxAg" name="Cliente"/>
+        <packagedElement xmi:type="uml:PrimitiveType" xmi:id="_jhYNgMWLEe6GV74yg1DxAg" name="boolean"/>
         <packagedElement xmi:type="uml:PrimitiveType" xmi:id="_jiY6IMWLEe6GV74yg1DxAg" name="int"/>
         <packagedElement xmi:type="uml:PrimitiveType" xmi:id="_rmxnUMWLEe6GV74yg1DxAg" name="float"/>
         <packagedElement xmi:type="uml:PrimitiveType" xmi:id="_JZ9RUMWOEe6GV74yg1DxAg" name="int"/>
@@ -2055,10 +2055,10 @@
             <ownedParameter xmi:type="uml:Parameter" xmi:id="_8z0I0MWQEe6GV74yg1DxAg" name="revision" type="_rmvyIMWLEe6GV74yg1DxAg"/>
           </ownedOperation>
           <ownedOperation xmi:type="uml:Operation" xmi:id="_8z1W8MWQEe6GV74yg1DxAg" name="modificar" visibility="public" method="_8z3zMMWQEe6GV74yg1DxAg" raisedException="_rn8E8MWLEe6GV74yg1DxAg">
-            <ownedParameter xmi:type="uml:Parameter" xmi:id="_8z1W8cWQEe6GV74yg1DxAg" type="_jhYNgMWLEe6GV74yg1DxAg" direction="return"/>
             <ownedParameter xmi:type="uml:Parameter" xmi:id="_8z1-AMWQEe6GV74yg1DxAg" name="cliente" type="_jXDz4MWLEe6GV74yg1DxAg"/>
             <ownedParameter xmi:type="uml:Parameter" xmi:id="_8z2lEMWQEe6GV74yg1DxAg" name="nombre" type="_jXQBIMWLEe6GV74yg1DxAg"/>
             <ownedParameter xmi:type="uml:Parameter" xmi:id="_8z3MIMWQEe6GV74yg1DxAg" name="telefono" type="_jXQBIMWLEe6GV74yg1DxAg"/>
+            <ownedParameter xmi:type="uml:Parameter" xmi:id="_p1bggOq6Ee-qkKn9leKjbw" name="Cliente" type="_N-FboOq5Ee-_-I_ycaTYqg" direction="return"/>
           </ownedOperation>
           <ownedOperation xmi:type="uml:Operation" xmi:id="_8z4aQMWQEe6GV74yg1DxAg" name="anadirHoras" visibility="public" method="_8z6PcMWQEe6GV74yg1DxAg" raisedException="_rn8E8MWLEe6GV74yg1DxAg">
             <ownedParameter xmi:type="uml:Parameter" xmi:id="_8z5oYMWQEe6GV74yg1DxAg" name="revision" type="_rmvyIMWLEe6GV74yg1DxAg"/>
@@ -2156,6 +2156,7 @@
     <packagedElement xmi:type="uml:Class" xmi:id="_Duof8OeWEe-6Wf3-7iKHsw" name="Revision"/>
     <packagedElement xmi:type="uml:Class" xmi:id="_Jy5IcOeWEe-6Wf3-7iKHsw" name="Revision"/>
     <packagedElement xmi:type="uml:Class" xmi:id="_TMi_cOeWEe-6Wf3-7iKHsw" name="Revision"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_N-FboOq5Ee-_-I_ycaTYqg" name="Cliente"/>
     <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_1thqUMWKEe65drXdt8xEJQ">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_1tnw8MWKEe65drXdt8xEJQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
         <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/PapyrusJava/1#/"/>
