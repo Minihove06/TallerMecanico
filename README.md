@@ -38,6 +38,9 @@ Para ello te muestro un diagrama de clases para el mismo y poco a poco te iré e
 2. Clona tu repositorio remoto recién copiado en GitHub a un repositorio local que será donde irás realizando lo que a continuación se te pide. Modifica el archivo `README.md` para que incluya tu nombre en el apartado "Alumno". Realiza tu **primer commit**.
 3. Crea una nueva rama de trabajo `sprint_inicial` y cámbiate a dicha rema para comenzar a trabajar.
 
+#### TallerMecanicoExcepcion
+1. Crea la excepción `TallerMecanicoExcepcion` de forma que ésta sea comprobada.
+
 #### Cliente
 1. Crea la clase `Cliente` con los atributos y visibilidad adecuados. 
 2. Crea los métodos de acceso y modificación de cada atributo, teniendo en cuenta que un **nombre** estará compuesto de palabras separadas por un espacio y cada palabra comenzará con una mayúscula y continuará con minúsculas. El **DNI** y el **teléfono** deben también tener un formato válido. Debes comprobar que la **letra** del **DNI** sea **correcta**. Debes crear las constantes para las expresiones regulares que luego utilizarás en los métodos de modificación. Los métodos de modificación lanzarán las excepciones adecuadas en caso de que el valor que se pretenda asignar al atributo no sea adecuado. También debes tener en cuenta que tanto el nombre como el teléfono de un cliente pueden cambiar.

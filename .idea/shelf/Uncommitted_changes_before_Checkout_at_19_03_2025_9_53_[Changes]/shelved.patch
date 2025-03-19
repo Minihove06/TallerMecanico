@@ -1,0 +1,37 @@
+Index: src/main/java/org/iesalandalus/programacion/tallermecanico/modelo/dominio/Cliente.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package org.iesalandalus.programacion.tallermecanico.modelo.dominio;\r\n\r\nimport org.iesalandalus.programacion.utilidades.Entrada; // Import de tu librería privada\r\nimport java.util.Objects;\r\nimport java.util.regex.Matcher;\r\nimport java.util.regex.Pattern;\r\n\r\npublic class Cliente {\r\n    private static final String ER_NOMBRE = \"([A-Z][a-z]+\\\\s+)+\";\r\n    private static final String ER_DNI = \"\\\\d{8}[^IOU]{1}\";\r\n    private static final String ER_TELEFONO = \"\\\\d{9}\";\r\n    private static final char[] LETRAS_DNI = {'T', 'R', 'W', 'A', 'G', 'M', 'Y', 'F', 'P', 'D', 'X', 'B', 'N', 'J', 'Z', 'S', 'Q', 'V', 'H', 'L', 'C', 'K', 'E'};\r\n\r\n    private String nombre;\r\n    private String dni;\r\n    private String telefono;\r\n\r\n    public Cliente(String nombre, String dni, String telefono) {\r\n        setNombre(nombre);\r\n        setDni(dni);\r\n        setTelefono(telefono);\r\n    }\r\n\r\n    public Cliente(Cliente cliente) {\r\n        if (cliente == null) {\r\n            throw new NullPointerException(\"No se puede copiar un cliente nulo.\");\r\n        }\r\n        this.nombre = cliente.getNombre();\r\n        this.dni = cliente.getDni();\r\n        this.telefono = cliente.getTelefono();\r\n    }\r\n\r\n    public String getNombre() {\r\n        return nombre;\r\n    }\r\n\r\n    public void setNombre(String nombre) {\r\n        if (nombre == null || !nombre.matches(ER_NOMBRE)) {\r\n            throw new IllegalArgumentException(\"El nombre no tiene un formato válido.\");\r\n        }\r\n        this.nombre = nombre;\r\n    }\r\n\r\n    public String getDni() {\r\n        return dni;\r\n    }\r\n\r\n    private void setDni(String dni) {\r\n        if (dni == null || !dni.matches(ER_DNI)) {\r\n            throw new IllegalArgumentException(\"El DNI no tiene un formato válido.\");\r\n        }\r\n        comprobarLetraDni(dni);\r\n        this.dni = dni;\r\n    }\r\n\r\n    public String getTelefono() {\r\n        return telefono;\r\n    }\r\n\r\n    public void setTelefono(String telefono) {\r\n        if (telefono == null || !telefono.matches(ER_TELEFONO)) {\r\n            throw new IllegalArgumentException(\"El teléfono no tiene un formato válido.\");\r\n        }\r\n        this.telefono = telefono;\r\n    }\r\n\r\n    // Método para comprobar la letra del DNI (sin modificar)\r\n    private void comprobarLetraDni(String dni) {\r\n        Pattern patron;\r\n        Matcher comparador;\r\n        patron = Pattern.compile(ER_DNI);\r\n        do {\r\n            System.out.print(\"Introduce un DNI: \");\r\n            dni = Entrada.cadena();\r\n            comparador = patron.matcher(dni);\r\n        } while (!comparador.matches());\r\n        char letraDNI = dni.charAt(dni.length() - 1);\r\n        String numerosDNI = dni.substring(0, 8);\r\n        int numero = Integer.parseInt(numerosDNI);\r\n        char letraValida = LETRAS_DNI[numero % 23];\r\n        do {\r\n            dni = Entrada.cadena();\r\n            letraValida = LETRAS_DNI[numero%23];\r\n            throw new IllegalArgumentException(\"La letra del DNI no es correcta.\");\r\n        } while (letraDNI != letraValida);\r\n\r\n\r\n    }\r\n\r\n    public static Cliente get(String dni) {\r\n        return new Cliente(\"Nombre Por Defecto\", dni, \"123456789\");\r\n    }\r\n\r\n    @Override\r\n    public boolean equals(Object o) {\r\n        if (this == o) return true;\r\n        if (o == null || getClass() != o.getClass()) return false;\r\n        Cliente cliente = (Cliente) o;\r\n        return Objects.equals(dni, cliente.dni);\r\n    }\r\n\r\n    @Override\r\n    public int hashCode() {\r\n        return Objects.hash(dni);\r\n    }\r\n\r\n    @Override\r\n    public String toString() {\r\n        return String.format(\"Cliente: [nombre=%s, dni=%s, teléfono=%s]\", nombre, dni, telefono);\r\n    }\r\n}
+===================================================================
+diff --git a/src/main/java/org/iesalandalus/programacion/tallermecanico/modelo/dominio/Cliente.java b/src/main/java/org/iesalandalus/programacion/tallermecanico/modelo/dominio/Cliente.java
+--- a/src/main/java/org/iesalandalus/programacion/tallermecanico/modelo/dominio/Cliente.java	(revision d48935aac263ec735801b7648d912c3fd576365d)
++++ b/src/main/java/org/iesalandalus/programacion/tallermecanico/modelo/dominio/Cliente.java	(date 1740489087372)
+@@ -21,6 +21,7 @@
+         setTelefono(telefono);
+     }
+ 
++
+     public Cliente(Cliente cliente) {
+         if (cliente == null) {
+             throw new NullPointerException("No se puede copiar un cliente nulo.");
+@@ -30,6 +31,11 @@
+         this.telefono = cliente.getTelefono();
+     }
+ 
++    private class Clientes  {
++        Clientes = new Clientes();
++
++    }
++
+     public String getNombre() {
+         return nombre;
+     }
+@@ -63,8 +69,6 @@
+         }
+         this.telefono = telefono;
+     }
+-
+-    // Método para comprobar la letra del DNI (sin modificar)
+     private void comprobarLetraDni(String dni) {
+         Pattern patron;
+         Matcher comparador;
